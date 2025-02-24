@@ -1,4 +1,4 @@
 ## 10PL 
 
-Modern Interative 10 PL notes.
+Modern Interactive 10 PL.
 
