@@ -12,6 +12,7 @@ export default ts.config(
 	js.configs.recommended,
 	...ts.configs.recommended,
 	...svelte.configs['flat/recommended'],
+	...svelte.configs.prettier,
 	prettier,
 	...svelte.configs['flat/prettier'],
 	{
